@@ -3,6 +3,8 @@
 🎓 3rd Year Computer Engineering Student  
 🛠️ Backend Developer | OSS Contributor | AI Enthusiast  
 🚀 Building products with Node.js, Python, Prisma, and AI
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpitkamboj&label=Profile%20views&color=0e75b6&style=flat" alt="pushpitkamboj" /> </p>
+
 
 ---
 
