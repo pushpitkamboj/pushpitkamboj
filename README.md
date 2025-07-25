@@ -1,43 +1,60 @@
-# 👋 Hey there, I'm Pushpit Kamboj
+# 👋 Hey, I'm Pushpit Kamboj!
 
-🎓 3rd Year Computer Engineering Student  
-🛠️ Backend Developer | OSS Contributor | AI Enthusiast  
-🚀 Building products with Node.js, Python, Prisma, and AI
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpitkamboj&label=Profile%20views&color=0e75b6&style=flat" alt="pushpitkamboj" /> </p>
-
+I'm a passionate **Backend Developer** with a knack for building robust and scalable systems. I love diving into open-source projects that spark my curiosity and am always eager to learn and grow in the tech world. Currently, I'm exploring the exciting realms of **GenAI** so that AI dosen't eat up my Job :)
 
 ---
 
-## 🔧 Tech Stack
+## 🚀 My Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+I'm well-versed in the **MERN** stack and a variety of backend technologies and tools. Here's what I work with:
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+
+### Frameworks & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
+
+### Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+
+---
+
+## 🌍 My Journey
+
+- **What I've Done**: I've built robust backend systems using the **MERN** stack, PostgreSQL, and AWS, creating APIs and optimizing databases for performance. I also completed a **2-month internship** at a startup, where I contributed to real-world backend solutions.
+- **What I Failed**: I didn't make it through **GSoC 2025**, but I see it as a learning opportunity that fueled my determination to grow.
+- **What I'm Proud Of**: Starting to contribute and giving back to community, Built my own in memory database.
+- **What I'm Learning**: Currently diving deep into **GenAI** and **RAG**, exploring how AI can enhance backend systems and create smarter applications.
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pushpitkamboj&show_icons=true&theme=default&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpitkamboj&layout=compact&hide_border=true" width="49%"/>
-</div>
+Here's a snapshot of my contributions on GitHub:
+
+![Pushpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpitkamboj&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpitkamboj&layout=compact&theme=radical)
+
 
 ---
 
-## 📈 Contribution Graph
+## 📈 My Socials
 
-[![Pushpit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pushpitkamboj&theme=light&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+- 🐦 [X](https://x.com/KambojPushpit)
+- 📧 [Email](mailto:pushpitkamboj@gmail.com)
+- ✍️ [Medium](https://medium.com/@pushpitkamboj)
 
----
 
-## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pushpit-kamboj-234aa1227/)
----
+Feel free to contact me 🚀
