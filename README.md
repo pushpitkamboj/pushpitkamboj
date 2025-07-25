@@ -32,7 +32,7 @@ I'm well-versed in the **MERN** stack and a variety of backend technologies and 
 
 ## 🌍 My Journey
 
-- **What I've Done**: I've built robust backend systems using the **MERN** stack, PostgreSQL, and AWS, creating APIs and optimizing databases for performance. I also completed a **2-month internship** at a startup, where I contributed to real-world backend solutions.
+- **What I've Done**: I've built robust backend systems using the **MERN** stack, PostgreSQL, and AWS, creating APIs and optimizing databases for performance.
 - **What I Failed**: I didn't make it through **GSoC 2025**, but I see it as a learning opportunity that fueled my determination to grow.
 - **What I'm Proud Of**: Starting to contribute and giving back to community, Built my own in memory database.
 - **What I'm Learning**: Currently diving deep into **GenAI** and **RAG**, exploring how AI can enhance backend systems and create smarter applications.
