@@ -1,6 +1,8 @@
 # 👋 Hey, I'm Pushpit Kamboj!
 
-I'm a passionate **Backend AI Developer** with a knack for building robust and scalable systems.Built Cursor for animated. https://animai.vercel.app/ Currently, I am exploring LLMOps.
+I'm a passionate **Backend AI Developer** with a knack for building robust and scalable systems.
+Built Cursor for animated. https://animai.vercel.app/ 
+Currently, I am exploring LLMOps.
 
 ---
 
