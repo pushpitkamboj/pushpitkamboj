@@ -1,10 +1,18 @@
-# 👋 Hey, I'm Pushpit Kamboj!
+# 👋 Hey, I'm Pushpit Kamboj
 
 I'm a passionate **Backend AI Developer** with a knack for building robust and scalable systems.
-Built Cursor for animated. https://animai.vercel.app/ 
+
+<div style={{ height: '2rem' }} />
+
+Built Cursor for 2D animations videos. https://animai.vercel.app/ (repo is private, DM to get access)
+
+<div style={{ height: '1.5rem' }} />
+
 Currently, I am exploring LLMOps.
 
----
+
+## Open Source Contributions
+https://github.com/YosemiteCrew/Yosemite-Crew/issues?q=state%3Aclosed%20is%3Apr%20author%3A%40me
 
 ## 🚀 My Tech Stack
 
@@ -15,14 +23,22 @@ I'm well-versed in the **MERN** stack and a variety of backend technologies and 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-
 ### Frameworks & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
+
+---
+
+### AI & LLM Engineering
+![LangChain](https://img.shields.io/badge/LangChain-informational?style=flat-square&logo=langchain&logoColor=white&color=2bbc8a)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=green)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMOps](https://img.shields.io/badge/LLMOps-Deployment-0077B6?style=flat-square)
+
+---
 
 ### Tools & Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
@@ -34,7 +50,7 @@ I'm well-versed in the **MERN** stack and a variety of backend technologies and 
 
 ## 🌍 My Journey
 
-- **What I've Done**: Built Cursor for 2D animation from scratch which has now around 500+ organic visites and 5+paid users. I've built robust backend systems, creating APIs, adding AI features during my internship at a startup.
+- **What I've Done**: Built Cursor for 2D animation from scratch which has now around 500+ organic visits and 5+paid users. I've built robust backend systems, creating APIs, adding AI features during my internship at a startup.
 - **What I'm Proud Of**: Starting to contribute and giving back to community, Built my own in memory database in C++
 - **What I'm Learning**: Currently i am moving towards learning LLMOps and K8.
 
