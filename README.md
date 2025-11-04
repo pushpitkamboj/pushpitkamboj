@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Pushpit Kamboj!
 
-I'm a passionate **Backend Developer** with a knack for building robust and scalable systems. I love diving into open-source projects that spark my curiosity and am always eager to learn and grow in the tech world. Currently, I'm exploring the exciting realms of **GenAI** so that AI dosen't eat up my Job :)
+I'm a passionate **Backend AI Developer** with a knack for building robust and scalable systems.Built Cursor for animated. https://animai.vercel.app/ Currently, I am exploring LLMOps.
 
 ---
 
@@ -32,10 +32,9 @@ I'm well-versed in the **MERN** stack and a variety of backend technologies and 
 
 ## 🌍 My Journey
 
-- **What I've Done**: I've built robust backend systems using the **MERN** stack, PostgreSQL, and AWS, creating APIs and optimizing databases for performance.
-- **What I Failed**: I didn't make it through **GSoC 2025**, but I see it as a learning opportunity that fueled my determination to grow.
-- **What I'm Proud Of**: Starting to contribute and giving back to community, Built my own in memory database.
-- **What I'm Learning**: Currently diving deep into **GenAI** and **RAG**, exploring how AI can enhance backend systems and create smarter applications.
+- **What I've Done**: Built Cursor for 2D animation from scratch which has now around 500+ organic visites and 5+paid users. I've built robust backend systems, creating APIs, adding AI features during my internship at a startup.
+- **What I'm Proud Of**: Starting to contribute and giving back to community, Built my own in memory database in C++
+- **What I'm Learning**: Currently i am moving towards learning LLMOps and K8.
 
 ---
 
