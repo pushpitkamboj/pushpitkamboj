@@ -14,21 +14,33 @@ Currently, I am exploring LLMOps.
 ## Open Source Contributions
 https://github.com/YosemiteCrew/Yosemite-Crew/pulls?q=is%3Apr+is%3Amerged+author%3Apushpitkamboj
 
-## 🚀 My Tech Stack
+## 🚀 MY PROJECTS
 
-I'm well-versed in the **MERN** stack and a variety of backend technologies and tools. Here's what I work with:
+best project: vtxlabs - give prompt o/p explanatory video explaining the concept and i m not using any video model, its code first approach to create videos
+demo -https://youtu.be/vdYP7-Josz4?si=t5TVOet9gs8c6Y71 
+Live - vtxlabs.vercel.app
+
+Data analyst agent - give in csv file or db connection string, it can give output data and required visual charts/graphs/plots as well
+demo - https://youtu.be/E_ioIjX4nzM?si=ic5t8ViARw9CwGBn, https://youtu.be/M2rnEIAOEQg?si=VT76QsSB5NtrIXcW
+GitHub - https://github.com/pushpitkamboj/AIDataAnalyst
+
+PR review agent - just authenticate to my platform, provide the repo name and repo owner and done! my platform will review each PR and give comments on it.
+demo - https://youtu.be/Z9NItNAfl00?si=_0brpXRwv89jPWlQ 
+GitHub - https://github.com/pushpitkamboj/pr_review_agent
+
+AI expense tracker - you can chat with your expenses, add, edit,delete and analyze your expense and it performs DB operations on user's behalf, also has human checking in invalid cases like -80 rupees chips
+Demo - https://youtu.be/nh3_a87ZcsU?si=BuOOEVbDCj13Ma0Y
+GitHub - https://github.com/pushpitkamboj/expense-tracker
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+
 ### Frameworks & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![Yaak](https://img.shields.io/badge/Yaak-6246ea?logo=yaak&logoColor=white&style=flat-square)
 
 ---
 
@@ -41,18 +53,8 @@ I'm well-versed in the **MERN** stack and a variety of backend technologies and 
 ---
 
 ### Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
-
----
-
-## 🌍 My Journey
-
-- **What I've Done**: Built Cursor for 2D animation from scratch which has now around 500+ organic visits and 5+paid users. I've built robust backend systems, creating APIs, adding AI features during my internship at a startup.
-- **What I'm Proud Of**: Starting to contribute and giving back to community, Built my own in memory database in C++
-- **What I'm Learning**: Currently i am moving towards learning LLMOps and K8.
 
 ---
 
@@ -70,6 +72,7 @@ Here's a snapshot of my contributions on GitHub:
 
 - 🐦 [X](https://x.com/KambojPushpit)
 - 📧 [Email](mailto:pushpitkamboj@gmail.com)
+- Linkedin [Linkedin](https://www.linkedin.com/in/pushpit-kamboj-234aa1227/)
 - ✍️ [Medium](https://medium.com/@pushpitkamboj)
 
 
