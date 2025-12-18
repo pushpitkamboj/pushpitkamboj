@@ -12,7 +12,7 @@ Currently, I am exploring LLMOps.
 
 
 ## Open Source Contributions
-https://github.com/YosemiteCrew/Yosemite-Crew/issues?q=state%3Aclosed%20is%3Apr%20author%3A%40pushpitkamboj
+https://github.com/YosemiteCrew/Yosemite-Crew/pulls?q=is%3Apr+is%3Amerged+author%3Apushpitkamboj
 
 ## 🚀 My Tech Stack
 
