@@ -4,7 +4,7 @@ I'm a passionate **Backend AI Developer** with a knack for building robust and s
 
 <div style={{ height: '2rem' }} />
 
-Built Cursor for 2D animations videos. https://animai.vercel.app/ (repo is private, DM to get access)
+Built Cursor for 2D animations videos. https://vtxlabs.vercel.app/ (repo is private, DM to get access)
 
 <div style={{ height: '1.5rem' }} />
 
