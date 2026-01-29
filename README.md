@@ -18,7 +18,7 @@ https://github.com/YosemiteCrew/Yosemite-Crew/pulls?q=is%3Apr+is%3Amerged+author
 
 best project: vtxlabs - give prompt o/p explanatory video explaining the concept and i m not using any video model, its code first approach to create videos
 demo -https://youtu.be/vdYP7-Josz4?si=t5TVOet9gs8c6Y71 
-Live - https://vtxlabs.vercel.app/
+Live - https://vtxlabs.space
 
 Data analyst agent - give in csv file or db connection string, it can give output data and required visual charts/graphs/plots as well
 demo - https://youtu.be/E_ioIjX4nzM?si=ic5t8ViARw9CwGBn, https://youtu.be/M2rnEIAOEQg?si=VT76QsSB5NtrIXcW
