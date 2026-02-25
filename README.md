@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Pushpit Kamboj
 
-I'm a passionate **Backend AI Developer** with a knack for building robust and scalable systems.
+I'm a passionate **Backend AI Developer** with a knack for building robust and scalable systems. Working as an AI intern at Joveo
 
 <div style={{ height: '2rem' }} />
 
@@ -12,7 +12,7 @@ Currently, I am exploring LLMOps.
 
 
 ## Open Source Contributions
-https://github.com/YosemiteCrew/Yosemite-Crew/pulls?q=is%3Apr+is%3Amerged+author%3Apushpitkamboj
+https://github.com/pulls?q=is%3Apr+author%3Apushpitkamboj+is%3Amerged
 
 ## 🚀 MY PROJECTS
 
