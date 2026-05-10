@@ -9,9 +9,9 @@
 - [one of my best PR](https://github.com/openwisp/openwisp-utils/pull/584)
 ## 🚀 MY PROJECTS
 
-### PROJECTS
+### My best project
 - vtxlabs - cursor for 2D animation which can generate consistent STEM subjects  explanatory videos from prompt without using any video model at much token efficient rate. 
-- Live - vtxlabs.space
+- Live - https://vtxlabs.space
 - Github - https://github.com/pushpitkamboj/AnimAI
 
 ### project 2 
