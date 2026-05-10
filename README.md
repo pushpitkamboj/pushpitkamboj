@@ -1,28 +1,33 @@
-# 👋 Hey, I'm Pushpit Kamboj
+# 👋 Introduction
 
-I'm a passionate **Backend AI Developer** with a knack for building robust and scalable systems. Working as an AI intern at Joveo
+- `AI enablement intern at Joveo` - Helping business and operations team about AI literacy. Building 0 to 1 solutions to automate manual processes
+- `GSOC mentee with openwisp` - Adding more time series databases for observability such as influxDB2.0 and elasticsearch while keeping backward compatability with existing databases and making it plug and play setup through ansible and docker for end users
 
-<div style={{ height: '2rem' }} />
-
-Currently, I am exploring LLMOps.
-
-
-## Open Source Contributions
-https://github.com/pulls?q=is%3Apr+author%3Apushpitkamboj+is%3Amerged
-
+## GSOC
+- [project details](https://summerofcode.withgoogle.com/programs/2026/projects/ebtNcwKc)
+- [proposal](https://github.com/satwiksps/GSoC_archive_2026/blob/main/OpenWISP/accepted/OpenWISP_GSOC_Pushpit_proposal_final%20(7).pdf)
+- [one of my best PR](https://github.com/openwisp/openwisp-utils/pull/584)
 ## 🚀 MY PROJECTS
 
-Data analyst agent - give in csv file or db connection string, it can give output data and required visual charts/graphs/plots as well
-demo - https://youtu.be/E_ioIjX4nzM?si=ic5t8ViARw9CwGBn, https://youtu.be/M2rnEIAOEQg?si=VT76QsSB5NtrIXcW
-GitHub - https://github.com/pushpitkamboj/AIDataAnalyst
+### PROJECTS
+- vtxlabs - cursor for 2D animation which can generate consistent STEM subjects  explanatory videos from prompt without using any video model at much token efficient rate. 
+- Live - vtxlabs.space
+- Github - https://github.com/pushpitkamboj/AnimAI
 
-PR review agent - just authenticate to my platform, provide the repo name and repo owner and done! my platform will review each PR and give comments on it.
-demo - https://youtu.be/Z9NItNAfl00?si=_0brpXRwv89jPWlQ 
-GitHub - https://github.com/pushpitkamboj/pr_review_agent
+### project 2 
+- Data analyst agent - give in csv file or db connection string, it can give output data and required visual charts/graphs/plots as well
+- demo - https://youtu.be/E_ioIjX4nzM?si=ic5t8ViARw9CwGBn, https://youtu.be/M2rnEIAOEQg?si=VT76QsSB5NtrIXcW
+- GitHub - https://github.com/pushpitkamboj/AIDataAnalyst
 
-AI expense tracker - you can chat with your expenses, add, edit,delete and analyze your expense and it performs DB operations on user's behalf, also has human checking in invalid cases like -80 rupees chips
-Demo - https://youtu.be/nh3_a87ZcsU?si=BuOOEVbDCj13Ma0Y
-GitHub - https://github.com/pushpitkamboj/expense-tracker
+### project 3
+- PR review agent - just authenticate to my platform, provide the repo name and repo owner and done! my platform will review each PR and give comments on it.
+- demo - https://youtu.be/Z9NItNAfl00?si=_0brpXRwv89jPWlQ 
+- GitHub - https://github.com/pushpitkamboj/pr_review_agent
+
+## project 4
+- AI expense tracker - you can chat with your expenses, add, edit,delete and analyze your expense and it performs DB operations on user's behalf, also has human checking in invalid cases like -80 rupees chips
+- Demo - https://youtu.be/nh3_a87ZcsU?si=BuOOEVbDCj13Ma0Y
+- GitHub - https://github.com/pushpitkamboj/expense-tracker
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -50,23 +55,24 @@ GitHub - https://github.com/pushpitkamboj/expense-tracker
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Analytics
 
-Here's a snapshot of my contributions on GitHub:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pushpitkamboj&theme=tokyonight" />
+</p>
 
-![Pushpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpitkamboj&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpitkamboj&layout=compact&theme=radical)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pushpitkamboj&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pushpitkamboj&theme=tokyonight" />
+</p>
 
 ---
 
-## 📈 My Socials
+## Connect With Me
 
-- 🐦 [X](https://x.com/KambojPushpit)
-- 📧 [Email](mailto:pushpitkamboj@gmail.com)
-- Linkedin [Linkedin](https://www.linkedin.com/in/pushpit-kamboj-234aa1227/)
-- ✍️ [Medium](https://medium.com/@pushpitkamboj)
-
-
-
-Feel free to contact me 🚀
+<p align="left">
+  <a href="https://x.com/KambojPushpit">X</a> •
+  <a href="https://www.linkedin.com/in/pushpit-kamboj-234aa1227/">LinkedIn</a> •
+  <a href="mailto:pushpitkamboj@gmail.com">Email</a> •
+  <a href="https://medium.com/@pushpitkamboj">Medium</a>
+</p>
